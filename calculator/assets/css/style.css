@@ -71,3 +71,15 @@
     justify-content: center;
     border: 2px solid black;
 }
+
+#rowBtn{
+    display: grid;    
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-bottom: 5px;
+    padding: 10px;
+    border: 2px solid gray;
+}
+#rowBtn button{
+    padding: 10px;
+}
