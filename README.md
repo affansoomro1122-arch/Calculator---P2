@@ -7,6 +7,7 @@ Update: 9/11/2026 : ${time}
 // Now Calculator Working Fine Calculate Every Single Mathematic Expressions.
 // The Main issue and time taking thing on that calculator is How i add the operator between the Numbers and how calculator calculates
 
+--- --- --- GOAL is that to add the memens voice on clciking on buttons in the calculator --- --- ---
 
 Thanks For Visit My Project 
 
