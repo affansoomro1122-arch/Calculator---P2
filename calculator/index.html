@@ -10,7 +10,11 @@
     <div class="container">
         <div id="calculator">
             <div id="topScreen">
-                <input type="number" placeholder="Enter Value">
+                <input type="text" placeholder="Enter Value">
+            </div>
+            <div id="rowBtn">
+                <button id="clrScr">DEL</button>
+                <button id="removeLastElement"> < C</button>
             </div>
             <div id="flexGrid">
                 <div id="numberBox">
@@ -26,11 +30,11 @@
                     <button value="0">0</button>
                 </div>
                 <div id="operatorsBox">
-                    <button class="operators" id="plus">+</button>
-                    <button class="operators" id="minus">-</button>
-                    <button class="operators" id="multiply">*</button>
-                    <button class="operators" id="divion">/</button>
-                    <button class="operators" id="parcentage">%</button>   
+                    <button value="+" class="operators" id="plus">+</button>
+                    <button value="-" class="operators" id="minus">-</button>
+                    <button value="*" class="operators" id="multiply">*</button>
+                    <button value="/" class="operators" id="divion">/</button>
+                    <button value="%" class="operators" id="parcentage">%</button>   
                     <button id="calculationEqual">=</button>   
                 </div>
             </div>
